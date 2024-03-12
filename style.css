@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #c3c0c0;
+    color: #333;
+}
+
+.header {
+    background-color: #024c9b;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    margin: 20px 0;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    display: block;
+    margin: 10px auto;
+    max-width: 30%;
+    height: auto;
+    border-radius: 5px;
+}
+
+ol {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a[href*="givemesport.com"] {
+    background-color: #ffdd57;
+    padding: 5px;
+    border-radius: 5px;
+    color: #333;
+}
+
+li a {
+    font-weight: bold;
+    color: #0056b3;
+}
+
+li a:hover {
+    color: #d63384;
+}
